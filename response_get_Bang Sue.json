@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 100.516,
+    "lat": 13.8254
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 300.49,
+    "feels_like": 304.01,
+    "temp_min": 299.8,
+    "temp_max": 301.12,
+    "pressure": 1012,
+    "humidity": 83
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 0,
+    "deg": 0
+  },
+  "clouds": {
+    "all": 20
+  },
+  "dt": 1701802876,
+  "sys": {
+    "type": 1,
+    "id": 9235,
+    "country": "TH",
+    "sunrise": 1701818907,
+    "sunset": 1701859756
+  },
+  "timezone": 25200,
+  "id": 6845329,
+  "name": "Bang Sue",
+  "cod": 200
+}
